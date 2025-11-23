@@ -4,6 +4,8 @@
 
 ***
 
+## NOTE: The code file is 60MB, therefore you can dowload it from my google drive: https://drive.google.com/drive/folders/194BonnwPkfZw-T5tem7sKZtIZc1z5GQa?usp=sharing
+
 ## Executive Summary
 
 This project presents a strategic optimization solution to address the challenge of managing a surge in package deliveries within a logistics network. The core objective was to **minimize annual operating costs** while maintaining efficient service by redesigning the existing service point network.
