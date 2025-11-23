@@ -52,7 +52,7 @@ $$
 
 * **Fixed Location Costs ($€10,000 \times \text{Number of Service Points}$):** The model assumes a fixed annual cost of **€10,000** for establishing and maintaining each service point in the network, regardless of its volume.
 * **Pick-up Handling Costs ($\text{Total Annual Pick-up Volume} \times \mathbf{€0.10}$):** This cost is applied to every parcel that is successfully picked up by a customer. The cost factor used in the code is **€0.10 per parcel picked up**.
-* **Variable Delivery Costs ($\sum \text{costs\_locations}$):** This is the most complex component, representing the cost incurred for all parcels that are **home-delivered** (not picked up), which is highly dependent on the travel distance and volume for those deliveries.
+* **Variable Delivery Costs ($\sum \text{costs of locations}$):** This is the most complex component, representing the cost incurred for all parcels that are **home-delivered** (not picked up), which is highly dependent on the travel distance and volume for those deliveries.
 
 ### 2. Operational Assumptions
 * **Fixed Cost Parameters:** The numerical values for fixed location costs (€10,000) and pick-up handling costs (€0.10) are assumed to be fixed for the duration of the analysis.
